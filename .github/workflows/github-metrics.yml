@@ -1,0 +1,19 @@
+name: GitHub metrics
+
+on:
+  # Schedule updates
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{github.token}}
+          committer_token: ${{github.token}}
+          user: dawidd6
