@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent
+          options: username=${{ github.repository_owner }}&rank_icon=percentile&show=reviews,prs_merged,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
