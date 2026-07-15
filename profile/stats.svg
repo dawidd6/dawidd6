@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dawid Dziurla's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2182, Total Commits  : 97877, Total PRs: 2272, Total PRs Merged: 714, Total PRs Reviewed: 10, Total Issues: 187, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 2181, Total Commits  : 97890, Total PRs: 2272, Total PRs Merged: 714, Total PRs Reviewed: 10, Total Issues: 187, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.3560776922882205;
+        stroke-dashoffset: 3.3569188837361854;
       }
     }
   
