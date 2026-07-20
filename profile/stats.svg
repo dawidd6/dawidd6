@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dawid Dziurla's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2187, Total Commits  : 97615, Total PRs: 2273, Total PRs Merged: 715, Total PRs Reviewed: 10, Total Issues: 187, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 2187, Total Commits  : 97878, Total PRs: 2274, Total PRs Merged: 715, Total PRs Reviewed: 10, Total Issues: 189, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.3495006393024567;
+        stroke-dashoffset: 3.3431723819117067;
       }
     }
   
@@ -180,7 +180,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >97.6k</text>
+      >97.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -240,7 +240,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >187</text>
+      >189</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Adawidd6+-author%3Adawidd6&amp;type=pullrequests">
@@ -300,7 +300,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >13</text>
+      >15</text>
     </g>
   </g>
     </svg>
