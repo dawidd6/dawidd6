@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Dawid Dziurla's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2189, Total Commits  : 97868, Total PRs: 2275, Total PRs Merged: 715, Total PRs Reviewed: 9, Total Issues: 189, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 16</desc>
+        <title id="titleId">Dawid Dziurla&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 2190, Total Commits  : 97836, Total PRs: 2275, Total PRs Merged: 715, Total PRs Reviewed: 9, Total Issues: 189, PRs Commented: 4143, PRs Reviewed: 3525, Issues Commented: 533, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.6078849530172534;
+        stroke-dashoffset: 3.604714872055728;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Dawid Dziurla's GitHub Stats</text>
+      >Dawid Dziurla&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -180,7 +180,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >97.9k</text>
+      >97.8k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
