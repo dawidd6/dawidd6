@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dawid Dziurla&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2196, Total Commits  : 99467, Total PRs: 2293, Total PRs Merged: 732, Total PRs Reviewed: 8, Total Issues: 191, PRs Commented: 4144, PRs Reviewed: 3525, Issues Commented: 541, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 2196, Total Commits  : 99469, Total PRs: 2293, Total PRs Merged: 732, Total PRs Reviewed: 8, Total Issues: 191, PRs Commented: 4144, PRs Reviewed: 3525, Issues Commented: 541, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -300,7 +300,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >16</text>
     </g>
   </g>
     </svg>
