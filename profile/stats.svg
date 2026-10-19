@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dawid Dziurla&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2194, Total Commits  : 98844, Total PRs: 2360, Total PRs Merged: 762, Total PRs Reviewed: 8, Total Issues: 193, PRs Commented: 4150, PRs Reviewed: 3527, Issues Commented: 546, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 2194, Total Commits  : 98870, Total PRs: 2361, Total PRs Merged: 763, Total PRs Reviewed: 7, Total Issues: 193, PRs Commented: 4150, PRs Reviewed: 3527, Issues Commented: 546, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.968503639333671;
+        stroke-dashoffset: 4.510707924570543;
       }
     }
   
@@ -153,7 +153,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          1.6%
+          1.8%
         </text>
       
         </g>
@@ -187,7 +187,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >98.8k</text>
+      >98.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -217,7 +217,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >762</text>
+      >763</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -232,7 +232,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >8</text>
+      >7</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
